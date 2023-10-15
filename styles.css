@@ -108,6 +108,8 @@ body{
 
 .resume_design .resume_left ul li .sub_title{
     margin: 3px 0;
+    font-weight: 500;
+    font-size: 12px;
 }
 
 .resume_design .resume_left ul li .content{
